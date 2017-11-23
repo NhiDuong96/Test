@@ -1,1 +1,1 @@
-my name is dog
+my name is dog, weight = 50kg
